@@ -1,0 +1,24 @@
+# Xcode build output
+build/
+DerivedData/
+*.xcworkspace/
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# Swift Package Manager
+.build/
+.swiftpm/
+*.resolved
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+
+# Simulator device data
+*.moved-aside
+
+# Xcode auto-generated files (you can regenerate these)
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/

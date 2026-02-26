@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@layer base {
+  body {
+    @apply bg-zinc-950 text-zinc-100 font-sans antialiased;
+  }
+
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Selection color */
+  ::selection {
+    background-color: #00e67640;
+  }
+}
+
+@layer components {
+  /* Reusable container */
+  .container-md {
+    @apply max-w-3xl mx-auto px-6;
+  }
+
+  /* Section heading style */
+  .section-label {
+    @apply text-xs font-mono uppercase tracking-widest text-accent;
+  }
+
+  /* Project card */
+  .project-card {
+    @apply p-6 rounded-2xl border border-zinc-800 bg-zinc-900
+           hover:border-accent/40 hover:bg-zinc-900/80
+           transition-all duration-300;
+  }
+
+  /* Nav link */
+  .nav-link {
+    @apply text-sm text-zinc-400 hover:text-white transition-colors duration-150;
+  }
+}

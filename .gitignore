@@ -1,0 +1,21 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+.env
+.env.local
+
+# Swift / Xcode
+.build/
+.swiftpm/
+DerivedData/
+*.xcworkspace/
+xcuserdata/
+
+# OS
+.DS_Store
+Thumbs.db
+._*
+
+# Vercel
+.vercel
