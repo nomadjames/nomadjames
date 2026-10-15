@@ -1,24 +1,44 @@
-# Hi, I'm James Dishman 👋
+# James Dishman
 
-## 🎯 Strategist | Designer | Researcher | Developer-in-Progress  
+**Creative technologist · UX research · Interaction design · Music technology**
 
-I'm a **User Experience (UX) researcher and designer** currently pursuing my **MS in User Experience at Kent State University**. My work focuses on **AI-enhanced creativity, knowledge management, and human-computer interaction (HCI)**. I am also the **co-founder of the Pittsburgh Ableton User Group**, where I foster a community of electronic musicians and creative technologists.  
+Research and working software for complex creative tools and human-AI collaboration. Electronic-music producer and DJ as **nomadjames**, co-founder of the Pittsburgh Ableton User Group, and MS User Experience candidate at Kent State University, expected December 2026.
 
-### 🚀 What I'm Working On  
-🔹 **Focus Ecosystem** – A multi-format reading and knowledge management system integrating AI and intelligent backlinking.  
-🔹 **iOS Synthesizer Project** – A touch- and sensor-controlled sound engine that interfaces with Ableton Live and modular synths.  
-🔹 **Symbolic Logic & Programming** – Currently learning **JavaScript, p5.js, and VST development**.  
+**[Explore the portfolio at nomadjames.com →](https://nomadjames.com/)**
 
-### 🔧 Skills & Interests  
-🟢 **User Experience Design** – Research, Interaction Design, and Prototyping  
-🟢 **AI & Knowledge Management** – Intelligent Systems & Zettelkasten Methodology  
-🟢 **Creative Technology** – Audio Synthesis, Modular Synthesis, and Digital Art  
-🟢 **Community & Research** – Digital Collaboration & Open Innovation  
+## Projects and demonstrations
 
-### 📫 Let's Connect  
-- 🌐 **Website:** [www.nomadjames.com](https://www.nomadjames.com) *(Coming Soon)*  
-- 💼 **LinkedIn:** [linkedin.com/in/jamesdishman](https://www.linkedin.com/in/jamesdishman)  
-- 🎛 **Ableton User Group:** [Pittsburgh Ableton UG](https://www.ableton.com/en/community/user-groups/)  
-- 📧 **Email:** [nomadjames@gmail.com](mailto:nomadjames@gmail.com)  
+### Clarence
+An AI collaboration system with structured memory, an entity-fact knowledge graph, semantic retrieval, and human review of durable knowledge.
 
-💡 *Always open to collaboration on UX, AI, creative coding, and research projects!*  
+[Case study](https://nomadjames.com/portfolio/clarence/) · [Interactive knowledge graph](https://nomadjames.com/clarence-graph/) · [Memory architecture](https://nomadjames.com/clarence-memory-system/) · [Public architecture repository](https://github.com/nomadjames/clarence-architecture)
+
+### SensorSynthFM
+A playable iPad FM instrument built in Swift, SwiftUI, and AudioKit. Touch enters and holds notes; environmental sensing shapes the sound. An active Kent State MS UX capstone, not a finished product.
+
+[Project and physical-iPad demonstration](https://nomadjames.com/building/sensorsynth/) · [Dated build history](https://nomadjames.com/building/sensorsynth/process/) · [Research trail](https://nomadjames.com/building/sensorsynth/desk-research/) · [Code and branch guide](https://github.com/nomadjames/SensorSynthFM)
+
+### Music Atlas
+A browser-based explorer for finding connections between tracks by tempo, key, and release metadata. The public index contains 47,445 sanitized track records, without source audio or private library paths.
+
+[Explore the tracks and read the project](https://nomadjames.com/building/music-atlas/#atlas-explorer)
+
+### KB POMO
+An iPhone and Apple Watch app that puts kettlebell sets into workday breaks. Available on the App Store; the Android version is in testing preparation, not on Google Play.
+
+[Project and interface walkthrough](https://nomadjames.com/building/kb-pomo/) · [App Store](https://apps.apple.com/app/kb-pomo/id6819052347)
+
+## Research and experiments
+
+- [Ableton UX evaluation suite](https://nomadjames.com/portfolio/ableton-evaluation-suite/): stakeholder analysis, heuristic evaluations, a cognitive walkthrough, and cognitive accessibility research.
+- [Accessibility audit suite](https://nomadjames.com/portfolio/accessibility-audit/): WCAG and cognitive accessibility evaluations.
+- [Groove Dice](https://nomadjames.com/groove-dice/): an interactive rhythm experiment.
+- [Lab](https://nomadjames.com/lab/): creative-code tools, prototypes, and visual experiments.
+
+## Connect
+
+[About](https://nomadjames.com/about/) · [Résumé](https://nomadjames.com/resume/) · [Contact](https://nomadjames.com/contact/) · [LinkedIn](https://www.linkedin.com/in/james-dishman-3a512163/)
+
+---
+
+*README refreshed with AI assistance. Project links distinguish working demonstrations, research, and ongoing development.*
